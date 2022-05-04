@@ -6,7 +6,7 @@ setup(
     description = "Change text colour",
     author = "AitzazImtiaz",
     url = "https://github.com/AitzazImtiaz/Colour-Package",
-    packages = ["soli"],
+    packages = ["foreboy"],
     entry_points = {
         'console_scripts': [
             'foreboy = foreboy.__main__:main'
